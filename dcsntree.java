@@ -1,12 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author Dewesh
- */
 import javax.swing.JOptionPane;
 import javax.swing.JTextArea;
 
